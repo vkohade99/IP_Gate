@@ -1,0 +1,4 @@
+/home/vaibhav/AUV-Tasks-Unclean/build/CMakeFiles/rebuild_cache.dir
+/home/vaibhav/AUV-Tasks-Unclean/build/CMakeFiles/test.dir
+/home/vaibhav/AUV-Tasks-Unclean/build/CMakeFiles/edit_cache.dir
+/home/vaibhav/AUV-Tasks-Unclean/build/CMakeFiles/GateEdge.dir

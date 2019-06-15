@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGateEdge.a  CMakeFiles/GateEdge.dir/src/GateEdge.cpp.o
+/usr/bin/ranlib libGateEdge.a
